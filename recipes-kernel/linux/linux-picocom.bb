@@ -1,7 +1,7 @@
 require linux-mainline-common.inc
 
 SUMMARY = "Pico ast-v5_2_0 Linux 5.4"
-LIC_FILES_CHKSUM = "file://COPYING;md5=bbea815ee2795b2f4230826c0c6b8814"
+LIC_FILES_CHKSUM = "closed"
 
 KERNEL_VERSION_SANITY_SKIP = "1"
 
