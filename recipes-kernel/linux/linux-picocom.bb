@@ -1,7 +1,7 @@
 require linux-mainline-common.inc
 
 SUMMARY = "Pico ast-v5_2_0 Linux 5.4"
-LIC_FILES_CHKSUM = "CLOSED"
+LIC_FILES_CHKSUM = ""
 
 KERNEL_VERSION_SANITY_SKIP = "1"
 
