@@ -6,8 +6,8 @@ LIC_FILES_CHKSUM = "file://COPYING;md5=bbea815ee2795b2f4230826c0c6b8814"
 KERNEL_VERSION_SANITY_SKIP = "1"
 
 SRCREV = "${AUTOREV}"
-BRANCH = "picocom/master"
-SRC_URI = "git://github.com/sam-huxtable/linux.git;protocol=https;branch=${BRANCH} \
+BRANCH = "master"
+SRC_URI = "git://github.com/sam-huxtable/linux_Latest.git;protocol=https;branch=${BRANCH} \
            file://pc805_defconfig \
            file://pc805.dts \
           "
