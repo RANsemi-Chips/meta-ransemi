@@ -7,7 +7,7 @@ KERNEL_VERSION_SANITY_SKIP = "1"
 
 SRCREV = "${AUTOREV}"
 BRANCH = "master"
-SRC_URI = "git://github.com/sam-huxtable/linux_Latest.git;protocol=https;branch=${BRANCH} \
+SRC_URI = "git://github.com/sam-huxtable/linux.git;protocol=https;branch=${BRANCH} \
            file://pc805_defconfig \
            file://pc805.dts \
           "
